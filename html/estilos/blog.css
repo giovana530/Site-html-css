@@ -1,0 +1,18 @@
+.linha {
+    border-bottom: 1px #606060 solid;
+    height: 200px;
+    
+
+}
+.leia-mais{
+    text-align: center;
+    background-color:#d6d6d6;
+    width: 100% ;
+    text-transform:uppercase;
+}body{
+    font-family: "Crimson Text","Times New Roman", serif;
+    background-color: #F2FFFC;
+    font-size: 120%;
+    line-height: 1,5;
+    
+}
