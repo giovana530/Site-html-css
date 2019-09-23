@@ -1,0 +1,35 @@
+.container img {
+    width:100%;
+}
+.edimagem-bmw{
+border: 10px solid black;
+width:48%;
+box-sizing:border-box;
+margin: 0px;
+padding: 10px 10px;
+float:left;
+}
+.edimagem-uol{
+    border: 10px solid black;
+    width:48%;
+    box-sizing:border-box;
+    margin: 0px;
+    padding: 10px 10px;
+    float:right;
+}
+.edimagem-ibm{
+    border: 10px solid black;
+    width:48%;
+    box-sizing:border-box;
+    margin-top: 20px;
+    padding: 10px 10px;
+    float:left;
+}
+.edimagem-g1{
+    border: 10px solid black;
+    width:48%;
+    box-sizing:border-box;
+    margin-top: 20px;
+    padding: 10px 10px;
+    float:right;
+}
